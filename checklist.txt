@@ -1,0 +1,9 @@
+1. All sources and javadoc downloaded.
+2. Jacoco and checkstyle run to download extra dependencies
+3. Look for updated libraries that we want to migrate to:
+     JUnit
+     Trove 
+     Apache Commons Lang, Math
+     Guava
+     Apfloat
+    
